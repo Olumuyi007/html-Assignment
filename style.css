@@ -1,0 +1,34 @@
+html, body {
+    padding: 10px;
+    margin: 10px;
+    font-family: sans-serif;
+color: white;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: rgb(10, 4, 44);
+}
+.headingOne {
+    color: rgb(247, 247, 252);
+    font: arial;
+}
+.form{ 
+    position: relative;
+    width: 20rem;
+    height: 100;
+width: 100;
+border: 2px solid rgb(92, 198, 247);
+border-radius: ;
+font-family: inherit;
+font-size: inherit;
+color: white;
+outline: none;
+padding: 1.25rem;
+background: none;
+
+    
+}
+.image1{
+    border-radius: 2px;
+}
