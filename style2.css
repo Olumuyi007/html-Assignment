@@ -1,0 +1,18 @@
+html, body {
+    padding: 10px;
+    margin: 10px;
+    font-family: sans-serif;
+color: white;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: rgb(10, 4, 44);
+}
+.Coffeeimage {
+    height: 200px;
+    width: 1000px ;
+    border-radius: 200px;
+    stroke: aqua;
+object-fit: cover;
+}
